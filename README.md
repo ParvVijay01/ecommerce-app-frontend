@@ -75,17 +75,6 @@ Package Name        |
 |[animations](https://pub.dev/packages/animations)
 |[flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
 
-<br/>
-
-## Created & Maintained By
-
-[SinaSys](https://github.com/SinaSys) 
-
-
-## Contributors
-• [mufarrah](https://github.com/mufarrah)
-<br/>
-<br/>
 
 
 
