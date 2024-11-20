@@ -30,7 +30,7 @@ class PosterSection extends StatelessWidget {
                   child: Row(
                     children: [
                       Padding(
-                        padding: const EdgeInsets.only(left: 20),
+                        padding: const EdgeInsets.only(left: 7),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           mainAxisAlignment: MainAxisAlignment.center,
